@@ -88,7 +88,7 @@ CONTRIBUTING 🤝
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests.
 
 LICENSE 📜
-This project is licensed under the MIT LICENSE.
+This project is licensed under the MIT License.
 
 ACKNOWLEDGMENTS 🙏
 Thanks to ZenQuotes for providing inspirational quotes.
