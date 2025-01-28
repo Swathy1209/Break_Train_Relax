@@ -1,0 +1,152 @@
+{
+    "sow": {
+        "id": "c4035e2b-01d2-4e3c-bf3f-7c6f5a3d8344",
+        "password": "756e1aca491f16516fc82e06c2a4f9c7fe92858c622bac443131945edda48137",
+        "display_name": "Sowwww",
+        "anonymous": true,
+        "mood_data": [
+            {
+                "date": "2025-01-20 15:39:27",
+                "mood": "\ud83d\ude10",
+                "notes": ""
+            }
+        ],
+        "meditation_minutes": 0,
+        "joined_date": "2025-01-20"
+    },
+    "Swathiga": {
+        "id": "00b3d975-6c8c-490c-971e-7836ed0f09bd",
+        "password": "91d1bb1767d0bebb68f96aca347457876ff1fed4ac003f7d82e90d876f51359a",
+        "display_name": "swathy",
+        "anonymous": true,
+        "mood_data": [
+            {
+                "date": "2025-01-20 15:42:10",
+                "mood": "\ud83d\ude10",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-20 15:51:11",
+                "mood": "\ud83d\ude0a",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-20 15:51:25",
+                "mood": "\ud83d\ude10",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-20 15:53:50",
+                "mood": "\ud83d\ude10",
+                "notes": "I am feeling sad"
+            },
+            {
+                "date": "2025-01-21 19:46:21",
+                "mood": "\ud83d\ude22 Sad",
+                "notes": "simple waste\n",
+                "activities": [
+                    "walk"
+                ]
+            },
+            {
+                "date": "2025-01-21 19:52:49",
+                "mood": "\ud83d\ude0a Happy",
+                "notes": "nope",
+                "activities": [
+                    "walk"
+                ]
+            },
+            {
+                "date": "2025-01-21 19:59:32",
+                "mood": "\ud83d\ude22 Sad",
+                "notes": "",
+                "activities": [
+                    ""
+                ]
+            },
+            {
+                "date": "2025-01-21 19:59:42",
+                "mood": "\ud83d\ude20 Angry",
+                "notes": "",
+                "activities": [
+                    ""
+                ]
+            },
+            {
+                "date": "2025-01-21 20:02:12",
+                "mood": "\ud83d\ude0a Happy",
+                "notes": "",
+                "activities": [
+                    "bbb"
+                ]
+            },
+            {
+                "date": "2025-01-21 20:09:58",
+                "mood": "\ud83d\ude22 Sad",
+                "notes": "",
+                "activities": [
+                    "bbb"
+                ]
+            }
+        ],
+        "meditation_minutes": 7,
+        "joined_date": "2025-01-20",
+        "posts": [
+            {
+                "content": "Breathe",
+                "date": "2025-01-20 15:55:09"
+            }
+        ]
+    },
+    "S Harish Ragavendhira ": {
+        "id": "491e262e-2805-486a-940c-23982a71727b",
+        "password": "5fc4809c41ecc77b856af93c6b92d78650836938559f98abea6917fbcd8ccb2a",
+        "display_name": "Hari",
+        "anonymous": true,
+        "mood_data": [
+            {
+                "date": "2025-01-21 14:45:33",
+                "mood": "\ud83d\ude22",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:45:39",
+                "mood": "\ud83d\ude10",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:45:43",
+                "mood": "\ud83d\ude42",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:45:47",
+                "mood": "\ud83d\ude0a",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:45:50",
+                "mood": "\ud83d\ude10",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:45:54",
+                "mood": "\ud83d\ude22",
+                "notes": ""
+            },
+            {
+                "date": "2025-01-21 14:48:53",
+                "mood": "\ud83d\ude42",
+                "notes": ""
+            }
+        ],
+        "meditation_minutes": 7,
+        "joined_date": "2025-01-21",
+        "posts": [
+            {
+                "content": "Dont trust Anyone!!!",
+                "date": "2025-01-21 14:47:17"
+            }
+        ]
+    }
+}
